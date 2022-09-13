@@ -1,6 +1,6 @@
 # Sobre mim
 
-- 👋 Olá meu nome é @bianca283.
+- 👋 Olá meu nome é **@bianca283**.
 - 👀 Meu email de contato é [email](bianca.oliveira.silva08@escola.pr.gov.br)
 - 🌱 Estou interessada em programar novas linguagens.
 - 💞️ Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch.
